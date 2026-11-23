@@ -1,0 +1,21 @@
+{
+  "name": "RapStar Studio",
+  "url": "https://rapstarstudio.com/pricing",
+  "description": "Custom AI rap songs and 9:16 music videos: 5-Word Freestyle Studio in 8 languages plus Lip-Sync Photo Rap MVs with free lyrics preview first.",
+  "category": "media",
+  "platforms": [
+    "web"
+  ],
+  "deal": "30% off credit packs, guest orders & 1st month Pro/Ultra with code BF2026",
+  "code": "BF2026",
+  "pricing": "one-time",
+  "price": {
+    "regular": 9.9,
+    "sale": 6.93,
+    "currency": "USD"
+  },
+  "discount": 30,
+  "startDate": "2026-11-13",
+  "endDate": "2026-12-01",
+  "icon": "https://rapstarstudio.com/icon.svg"
+}
