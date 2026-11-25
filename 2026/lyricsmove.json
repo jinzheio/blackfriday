@@ -1,0 +1,20 @@
+{
+  "name": "LyricsMove",
+  "url": "https://lyricsmove.com/pricing",
+  "description": "Upload a song or paste a Suno link to get a word-timed lyric video. Free 720p; paid plans add watermark-free 1080p and cartoon AI music videos.",
+  "category": "media",
+  "platforms": [
+    "web"
+  ],
+  "deal": "30% off songs/MVs (BF2026); 40% off 1st yr Pro/Ultra yearly (BF2026YEAR)",
+  "code": "BF2026",
+  "pricing": "one-time",
+  "price": {
+    "regular": 3.9,
+    "sale": 2.73,
+    "currency": "USD"
+  },
+  "discount": 30,
+  "endDate": "2026-12-01",
+  "icon": "https://lyricsmove.com/icon.svg"
+}
